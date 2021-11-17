@@ -10,6 +10,8 @@
 <body>
 	<script type="text/javascript">
 		alert("HELLO JS");
+		console.log("HELLO WORLD");
 	</script>
 </body>
 </html>
+
